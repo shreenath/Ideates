@@ -1,6 +1,7 @@
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gomah/bluise)
 
 Ideates - a thought space for getting to understand the world
+Why you no work
  Author: Shreenath Regunathan
 
 I am a newbie - but I will figure this out
